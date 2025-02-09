@@ -33,6 +33,3 @@ LibraryManagementSystem/
 
 ## Requirements
 - C++ compiler (GCC, Clang, MSVC)
-
-## Author
-Himanshu Dhiman
